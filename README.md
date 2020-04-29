@@ -15,3 +15,5 @@
 ## picture 
 
 ![task-pic-1](https://user-images.githubusercontent.com/16577068/80587817-86487d80-8a17-11ea-816b-0c06e908c136.PNG)
+![task-2](https://user-images.githubusercontent.com/16577068/80587947-ba23a300-8a17-11ea-877d-f70a0470468a.PNG)
+
