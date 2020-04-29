@@ -47,11 +47,7 @@ class HomeController extends Controller
     public function filter()
     {
         $trips = Trip::where('title','like', '%'.request()->keyword.'%')->get();
-        // $cards = $trips->groupBy('country_id');
-        // dd($cards);
         $data  = view('results' , ['trips' => $trips])->render();
-
-
         return response()->json(['data' => $data]);
     }
 }
